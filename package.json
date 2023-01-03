@@ -12,7 +12,7 @@
   },
   "lint-staged": {
     "pages/*": [
-      "next lint --fix"
+      "yarn lint --fix"
     ]
   },
   "dependencies": {
